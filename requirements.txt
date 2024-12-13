@@ -1,0 +1,9 @@
+openai-whisper
+numpy
+pandas
+requests
+python-dotenv
+pyaudio
+soundfile
+pyttsx3
+openai
